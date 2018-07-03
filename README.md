@@ -3,7 +3,7 @@
 ## Theme Monokai based
 
 #Instalação
-- Clonar repositório para .\Users\Usuario\.vscode\extensions
+- Clonar repositório para .\Users\Usuario\\.vscode\extensions
 - Reiniciar VSCode
 - Selecionar tema "GHS Theme"
 
