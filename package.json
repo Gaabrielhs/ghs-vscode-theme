@@ -16,7 +16,99 @@
                 "label": "GHS Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/GHS Theme-color-theme.json"
-            }
-        ]
+            },
+            {
+				"label": "GHS Mon Pro",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GHS Monokai Pro.json"
+			},
+			{
+				"label": "GHS Mon Pro (Filter Octagon)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GHS Monokai Pro (Filter Octagon).json"
+			},
+			{
+				"label": "GHS Mon Pro (Filter Ristretto)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GHS Monokai Pro (Filter Ristretto).json"
+			},
+			{
+				"label": "GHS Mon Pro (Filter Spectrum)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GHS Monokai Pro (Filter Spectrum).json"
+			},
+			{
+				"label": "GHS Mon Pro (Filter Machine)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GHS Monokai Pro (Filter Machine).json"
+			},
+			{
+				"label": "GHS Mon Pro Classic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GHS Monokai Classic.json"
+			}
+        ],
+        "iconThemes": [
+			{
+				"label": "GHS Mon Pro Icons",
+				"id": "GHS Mon Pro Icons",
+				"path": "./icon-themes/Monokai Pro icon-theme.json"
+			},
+			{
+				"label": "GHS Mon Pro Monochrome Icons",
+				"id": "GHS Mon Pro Monochrome Icons",
+				"path": "./icon-themes/Monokai Pro monochrome icon-theme.json"
+			},
+			{
+				"label": "GHS Mon Pro (Filter Octagon) Icons",
+				"id": "GHS Mon Pro (Filter Octagon) Icons",
+				"path": "./icon-themes/Monokai Pro (Filter Octagon) icon-theme.json"
+			},
+			{
+				"label": "GHS Mon Pro (Filter Octagon) Monochrome Icons",
+				"id": "GHS Mon Pro (Filter Octagon) Monochrome Icons",
+				"path": "./icon-themes/Monokai Pro (Filter Octagon) monochrome icon-theme.json"
+			},
+			{
+				"label": "GHS Mon Pro (Filter Ristretto) Icons",
+				"id": "GHS Mon Pro (Filter Ristretto) Icons",
+				"path": "./icon-themes/Monokai Pro (Filter Ristretto) icon-theme.json"
+			},
+			{
+				"label": "GHS Mon Pro (Filter Ristretto) Monochrome Icons",
+				"id": "GHS Mon Pro (Filter Ristretto) Monochrome Icons",
+				"path": "./icon-themes/Monokai Pro (Filter Ristretto) monochrome icon-theme.json"
+			},
+			{
+				"label": "GHS Mon Pro (Filter Spectrum) Icons",
+				"id": "GHS Mon Pro (Filter Spectrum) Icons",
+				"path": "./icon-themes/Monokai Pro (Filter Spectrum) icon-theme.json"
+			},
+			{
+				"label": "GHS Mon Pro (Filter Spectrum) Monochrome Icons",
+				"id": "GHS Mon Pro (Filter Spectrum) Monochrome Icons",
+				"path": "./icon-themes/Monokai Pro (Filter Spectrum) monochrome icon-theme.json"
+			},
+			{
+				"label": "GHS Mon Pro (Filter Machine) Icons",
+				"id": "GHS Mon Pro (Filter Machine) Icons",
+				"path": "./icon-themes/Monokai Pro (Filter Machine) icon-theme.json"
+			},
+			{
+				"label": "GHS Mon Pro (Filter Machine) Monochrome Icons",
+				"id": "GHS Mon Pro (Filter Machine) Monochrome Icons",
+				"path": "./icon-themes/Monokai Pro (Filter Machine) monochrome icon-theme.json"
+			},
+			{
+				"label": "GHS Mon Classic Icons",
+				"id": "GHS Mon Classic Icons",
+				"path": "./icon-themes/Monokai Classic icon-theme.json"
+			},
+			{
+				"label": "GHS Mon Classic Monochrome Icons",
+				"id": "GHS Mon Classic Monochrome Icons",
+				"path": "./icon-themes/Monokai Classic monochrome icon-theme.json"
+			}
+		]
     }
 }
